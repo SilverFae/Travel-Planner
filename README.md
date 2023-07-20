@@ -33,4 +33,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video
+![Categories Test](./assets/images/categoriesTest.gif)
+![Tag Test](./assets/images/TagTest.gif)
+![Product Test](./assets/images/productTest.gif)
 
+## Github link
+https://github.com/SilverFae/Travel-Planner
